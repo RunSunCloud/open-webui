@@ -64,7 +64,8 @@ export const initI18n = (defaultLocale: string | undefined) => {
 			returnEmptyString: false,
 			interpolation: {
 				escapeValue: false // not needed for svelte as it escapes by default
-			}
+			},
+			lng: 'en-US'
 		});
 };
 

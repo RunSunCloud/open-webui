@@ -372,3 +372,16 @@ input[type='number'] {
 .hljs-strong {
 	font-weight: 700;
 }
+
+
+.rs-bg{
+	background: url('/assets/images/login-bg.png') no-repeat center;
+	background-size: cover;
+	height: 100%;
+    /* object-fit: cover; */
+}
+.rs-input{
+	border: 1px solid #ddd;
+	border-radius: 1rem;
+    padding: 0.5rem 1rem;
+}
