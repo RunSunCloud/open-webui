@@ -283,7 +283,7 @@
 										</button>
 									{:else}
 										<button
-											class="bg-gray-900 hover:bg-gray-900/10 dark:bg-gray-100/5 dark:hover:bg-gray-100/10 dark:text-gray-300 dark:hover:text-white text-white transition w-full rounded-full font-medium text-sm py-2.5"
+											class="bg-gray-900 hover:bg-gray-900 dark:bg-gray-100/5 dark:hover:bg-gray-100/10 dark:text-gray-300 dark:hover:text-white text-white transition w-full rounded-full font-medium text-sm py-2.5"
 											type="submit"
 										>
 											{mode === 'signin'
